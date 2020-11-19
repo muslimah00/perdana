@@ -1,6 +1,6 @@
 FULL STACK DEVELOPER
 
-FRONT END
+<FRONT END>
 ---Basic---
 + HTML
 + CSS
@@ -15,3 +15,8 @@ FRONT END
 ---Style---
 + Boostrap
 + Material UI
+
+<BACK END>
+---Technology---
++ PHP
++ Node
