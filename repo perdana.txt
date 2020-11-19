@@ -1,0 +1,17 @@
+FULL STACK DEVELOPER
+
+FRONT END
+---Basic---
++ HTML
++ CSS
++ Javascript
+
+---Framework---
++ React
++ Vue
++ Angular
++ Webpack
+
+---Style---
++ Boostrap
++ Material UI
