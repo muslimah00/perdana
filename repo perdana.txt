@@ -15,8 +15,3 @@ FULL STACK DEVELOPER
 ---Style---
 + Boostrap
 + Material UI
-
-<BACK END>
----Technology---
-+ PHP
-+ Node
